@@ -1,4 +1,5 @@
 # Project Name: webCMS
+Made by Anthony Asaaf, Gary McNamara, Nam Anh Dang, Sanghyun Lee and Raymond Liang
 ## Description
 **webCMS** is a web application that aims to connect charities and sponsors based on their needs. It allows charities to specify their needs and allows sponsors to specify what they can help with. The application features a recommendation system that matches charities and sponsors based on their specified needs. Additionally, charities and sponsors can post blogs and connect with each other in a LinkedIn-style manner. The application also allows for chat room messaging and sharing of files between connected charities and sponsors.
 
