@@ -1,0 +1,10 @@
+.divBuffer {
+    margin: 30px;
+}
+
+.mainBoxWidth {
+    min-width: 700px;
+    max-width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+}
